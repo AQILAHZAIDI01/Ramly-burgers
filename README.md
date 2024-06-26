@@ -20,8 +20,7 @@ The Inventory App is designed for managing inventory. It allows the user to:
 - Save updates to the SQL database upon clicking the update button.
 
 ## Architecture
-![Cashier App Architecture](path/to/cashier_app_architecture_diagram.png)
-(GAMBAR)
+![Architecure_Ramly_ Burger_System](https://github.com/AQILAHZAIDI01/Ramly-burgers/assets/74953405/e29ec934-b2d5-4e18-a646-2e385c41770f)
 
 
 
