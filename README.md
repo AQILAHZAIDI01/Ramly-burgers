@@ -75,3 +75,6 @@ The database used in this project is MySQL. Below are the details of the tables 
   - `quantity`: INT
   - `price`: DECIMAL(5, 2)
   - `status`: VARCHAR(255)
+ 
+    ## PRESENTATION LINKS
+    https://youtu.be/juCCvjZtrN8
